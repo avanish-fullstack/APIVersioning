@@ -64,3 +64,4 @@ C:\Users\avani\Source\Repos\APIURIPathVersioning\ContentNegotiationVersioning\ob
 C:\Users\avani\Source\Repos\APIURIPathVersioning\ContentNegotiationVersioning\obj\Debug\ContentNegotiationVersioning.csproj.CopyComplete
 C:\Users\avani\Source\Repos\APIURIPathVersioning\ContentNegotiationVersioning\obj\Debug\ContentNegotiationVersioning.dll
 C:\Users\avani\Source\Repos\APIURIPathVersioning\ContentNegotiationVersioning\obj\Debug\ContentNegotiationVersioning.pdb
+C:\Users\avani\Source\Repos\APIURIPathVersioning\ContentNegotiationVersioning\obj\Debug\ContentNegotiationVersioning.csprojAssemblyReference.cache

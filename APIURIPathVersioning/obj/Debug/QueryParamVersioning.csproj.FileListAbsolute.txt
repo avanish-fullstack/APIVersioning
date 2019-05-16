@@ -64,3 +64,4 @@ C:\Users\avani\Source\Repos\APIURIPathVersioning\APIURIPathVersioning\obj\Debug\
 C:\Users\avani\Source\Repos\APIURIPathVersioning\APIURIPathVersioning\obj\Debug\QueryParamVersioning.csproj.CopyComplete
 C:\Users\avani\Source\Repos\APIURIPathVersioning\APIURIPathVersioning\obj\Debug\APIURIPathVersioning.dll
 C:\Users\avani\Source\Repos\APIURIPathVersioning\APIURIPathVersioning\obj\Debug\APIURIPathVersioning.pdb
+C:\Users\avani\Source\Repos\APIURIPathVersioning\APIURIPathVersioning\obj\Debug\QueryParamVersioning.csprojAssemblyReference.cache

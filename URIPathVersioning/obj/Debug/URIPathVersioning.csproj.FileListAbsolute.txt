@@ -64,3 +64,4 @@ C:\Users\avani\Source\Repos\APIURIPathVersioning\URIPathVersioning\obj\Debug\URI
 C:\Users\avani\Source\Repos\APIURIPathVersioning\URIPathVersioning\bin\Microsoft.AspNet.WebApi.Versioning.dll
 C:\Users\avani\Source\Repos\APIURIPathVersioning\URIPathVersioning\bin\Microsoft.AspNet.WebApi.Versioning.pdb
 C:\Users\avani\Source\Repos\APIURIPathVersioning\URIPathVersioning\bin\Microsoft.AspNet.WebApi.Versioning.xml
+C:\Users\avani\Source\Repos\APIURIPathVersioning\URIPathVersioning\obj\Debug\URIPathVersioning.csprojAssemblyReference.cache

@@ -8,6 +8,10 @@ using System.Web.Http;
 
 namespace URIPathVersioning.Controllers
 {
+
+    //http://localhost:59112/api/v1/helloworld
+    //http://localhost:59112/api/v2/helloworld
+
     [Route("api/v{version:apiVersion}/helloworld")]
     public class HelloWorldController : ApiController
     {

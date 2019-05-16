@@ -12,6 +12,8 @@ namespace URIPathVersioning
         public static void Register(HttpConfiguration config)
         {
             // Web API configuration and services
+
+            //Resolves the version
             var constraintResolver = new DefaultInlineConstraintResolver()
            {
                 ConstraintMap =

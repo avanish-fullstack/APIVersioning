@@ -13,7 +13,7 @@ namespace ContentNegotiationVersioning
             // Web API configuration and services
             config.AddApiVersioning( options => {
                 options.ApiVersionReader = new MediaTypeApiVersionReader();
-                options.AssumeDefaultVersionWhenUnspecified = true;
+                //options.AssumeDefaultVersionWhenUnspecified = true;
                 options.ApiVersionSelector = new CurrentImplementationApiVersionSelector(options);
                 });
 

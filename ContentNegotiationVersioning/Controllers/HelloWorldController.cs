@@ -18,5 +18,7 @@ namespace ContentNegotiationVersioning.Controllers
 
         [ApiVersion("2.0")]
         public string get1() => "Hello world V2.0";
+
+        
     }
 }

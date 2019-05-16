@@ -8,7 +8,9 @@ using System.Web.Http;
 
 namespace QueryParamVersioning.Controllers
 {
-        
+    //http://localhost:56772/api/HelloWorld?api-version=2.0
+    //http://localhost:56772/api/HelloWorld?api-version=1.0
+
     public class HelloWorldController : ApiController
     {
         [ApiVersion("1.0")]        
